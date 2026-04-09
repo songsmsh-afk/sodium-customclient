@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+*.jar
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Run configurations
+run/
+eclipse/
+saves/
+
+# Environment
+.env
+.env.local
